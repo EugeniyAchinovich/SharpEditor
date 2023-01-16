@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SharpEditor\bin\Debug\SharpEditor.exe.config
+C:\Users\User\source\repos\SharpEditor\bin\Debug\SharpEditor.exe
+C:\Users\User\source\repos\SharpEditor\bin\Debug\SharpEditor.pdb
+C:\Users\User\source\repos\SharpEditor\bin\Debug\FastColoredTextBox.xml
+C:\Users\User\source\repos\SharpEditor\obj\Debug\SharpEditor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SharpEditor\obj\Debug\SharpEditor.Form1.resources
+C:\Users\User\source\repos\SharpEditor\obj\Debug\SharpEditor.Properties.Resources.resources
+C:\Users\User\source\repos\SharpEditor\obj\Debug\SharpEditor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SharpEditor\obj\Debug\SharpEditor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SharpEditor\obj\Debug\SharpEditor.exe
+C:\Users\User\source\repos\SharpEditor\obj\Debug\SharpEditor.pdb
